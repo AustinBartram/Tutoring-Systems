@@ -13,7 +13,7 @@ Watch a clear, step-by-step lesson on solving linear equations and graphing them
 
 ## 📄 Worksheet PDF  
 Practice what you learn in the lesson by completing the worksheet:  
-[👉 Download worksheet.pdf](worksheet/Linear.Equations.pt.1 - Google Docs.pdf)
+[👉 Download worksheet.pdf](worksheet/linear-equations-pt1.pdf)
 
 ---
 
